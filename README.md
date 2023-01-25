@@ -5,6 +5,7 @@
 
 Bounty Hunters’ Guild is a “black market” website where users can claim bounties for an exchange of credits.
 
+![bounty-preview](https://user-images.githubusercontent.com/93613651/214681058-10451386-d37a-4de5-affa-88ab2c20d46e.jpg)
 
 
 
